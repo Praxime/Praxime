@@ -4,4 +4,4 @@
 - ❤️ | I’m `single` (thank god).
 - 🏙️ | I live in `Iran`.
 - ‎🧡 | My MBTI Type is `ENFJ-A`.
-- 🏆 | Check out my `Repositories` and Click on those *Little stars*
+- 🏆 | Check out my `Repositories` and Click on those **Little stars**
