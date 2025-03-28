@@ -1,5 +1,5 @@
 # 👋 | I’m @`Praxime` ```He / Him```
-- ☕ | I’m an `NodeJs` _nerd_ and sometimes i code functional `Websites`.
+- ☕ | I’m an `NodeJs` _nerd_ and sometimes i code functional `Bots & Websites`.
 - 🍰 | I love `Orange` Color.
 - ❤️ | I’m `in Relationship`.
 - 🏙️ | I live in `Iran`.
