@@ -27,10 +27,6 @@
 
 ---
 
-
-
----
-
 <h2 align="center">🌌 My knowledge and workspace</h2>
 
 <h3 align="center">Languages I worked with</h3>
