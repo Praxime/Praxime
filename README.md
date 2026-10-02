@@ -1,4 +1,4 @@
-# <h1 align="center"> <img src="https://cdn.praxime.me/favicon48.png"/> | Hey! I’m @`Praxime` ```He / Him``` :wave: </h1>
+# Hey! I’m @`Praxime` ```He / Him``` :wave: </h1>
 
 ---
 
