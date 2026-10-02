@@ -8,7 +8,9 @@
 ---
 
 <h2 align="center">🤔 What am I insterested in?</h2>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&duration=3000&pause=1500&color=0EF7F1&background=FF8B1400&center=true&vCenter=true&width=435&lines=I'm+a+person+who+is+interested+in...;Minecraft+plugins%2C;Discord+bots%2C;Website+development;and+basically+anything+that+ends+with+%22.js%22." alt="Typing SVG" /></a></p>
+<p align="center">
+Gaming, Coding, Learning, Teaching, Sleeping
+</p>
 
 ---
 
